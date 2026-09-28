@@ -1,0 +1,4 @@
+09/28/2026-13:43:30.738159  [**] [1:1000003:1] Suspicious XSS Pattern [**] [Classification: (null)] [Priority: 3] {TCP} 127.0.0.1:56449 -> 127.0.0.1:8000
+09/28/2026-13:43:20.205100  [**] [1:1000002:1] Suspicious Command Injection Pattern [**] [Classification: (null)] [Priority: 3] {TCP} 127.0.0.1:56439 -> 127.0.0.1:8000
+09/28/2026-13:43:30.738159  [**] [1:1000003:1] Suspicious XSS Pattern [**] [Classification: (null)] [Priority: 3] {TCP} 127.0.0.1:56449 -> 127.0.0.1:8000
+09/28/2026-13:43:20.205100  [**] [1:1000002:1] Suspicious Command Injection Pattern [**] [Classification: (null)] [Priority: 3] {TCP} 127.0.0.1:56439 -> 127.0.0.1:8000

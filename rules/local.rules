@@ -1,0 +1,4 @@
+alert tcp any any -> any any (msg:"Possible TCP Port Scan"; flags:S; threshold:type both, track by_src, count 20, seconds 10; sid:1000001; rev:1;)
+alert http any any -> any any (msg:"Suspicious Command Injection Pattern"; http.uri; content:"cmd="; nocase; sid:1000002; rev:1;)
+alert http any any -> any any (msg:"Suspicious XSS Pattern"; http.uri; content:"script"; nocase; sid:1000003; rev:1;)
+alert dns any any -> any any (msg:"Suspicious Long DNS Query"; dns.query; pcre:"/^[A-Za-z0-9+/]{20,}./i"; sid:1000004; rev:1;)

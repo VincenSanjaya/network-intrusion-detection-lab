@@ -1,0 +1,13 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	weird
+#open	2026-09-28-13-18-51
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	name	addl	notice	peer	source
+#types	time	string	addr	port	addr	port	string	string	bool	string	string
+1790576204.440303	CnZnhZ3wLVeKi12cp8	10.20.139.235	5353	224.0.0.251	5353	bad_UDP_checksum	-	F	zeek	UDP
+1790576205.680472	C5UWKw1VMSZc9L4xwi	127.0.0.1	5353	224.0.0.251	5353	bad_UDP_checksum	-	F	zeek	UDP
+1790576239.508778	-	10.20.139.235	0	10.20.139.235	0	bad_IP_checksum	-	F	zeek	IP
+1790576248.469003	-	127.0.0.1	0	127.0.0.1	0	bad_IP_checksum	-	F	zeek	IP
+#close	2026-09-28-13-18-51

@@ -1,0 +1,1 @@
+09/28/2026-13:17:28.495651  [**] [1:1000001:1] Possible TCP Port Scan [**] [Classification: (null)] [Priority: 3] {TCP} 127.0.0.1:37613 -> 127.0.0.1:119

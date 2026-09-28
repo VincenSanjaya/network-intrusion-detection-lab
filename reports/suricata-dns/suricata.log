@@ -1,0 +1,17 @@
+[259 - Suricata-Main] 2026-09-28 13:58:35 Notice: suricata: This is Suricata version 8.0.7 RELEASE running in USER mode
+[259 - Suricata-Main] 2026-09-28 13:58:35 Info: cpu: CPUs/cores online: 8
+[259 - Suricata-Main] 2026-09-28 13:58:35 Info: suricata: Setting engine mode to IDS mode by default
+[259 - Suricata-Main] 2026-09-28 13:58:35 Info: exception-policy: master exception-policy set to: auto
+[259 - Suricata-Main] 2026-09-28 13:58:35 Info: logopenfile: fast output device (regular) initialized: fast.log
+[259 - Suricata-Main] 2026-09-28 13:58:35 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[259 - Suricata-Main] 2026-09-28 13:58:35 Info: logopenfile: stats output device (regular) initialized: stats.log
+[259 - Suricata-Main] 2026-09-28 13:58:35 Info: detect: 1 rule files processed. 4 rules successfully loaded, 0 rules failed, 0 rules skipped
+[259 - Suricata-Main] 2026-09-28 13:58:35 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[259 - Suricata-Main] 2026-09-28 13:58:35 Info: detect: 4 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 3 inspect application layer, 0 are decoder event only
+[3859 - RX#01] 2026-09-28 13:58:35 Info: pcap: Starting file run for pcaps/suspicious-dns.pcap
+[259 - Suricata-Main] 2026-09-28 13:58:35 Notice: threads: Threads created -> RX: 1 W: 8 FM: 1 FR: 1   Engine started.
+[3859 - RX#01] 2026-09-28 13:58:35 Info: pcap: pcap file pcaps/suspicious-dns.pcap end of file reached (pcap err code 0)
+[259 - Suricata-Main] 2026-09-28 13:58:35 Notice: suricata: Signal Received.  Stopping engine.
+[259 - Suricata-Main] 2026-09-28 13:58:35 Info: suricata: time elapsed 0.046s
+[3859 - RX#01] 2026-09-28 13:58:35 Notice: pcap: read 1 file, 271 packets, 23671 bytes
+[259 - Suricata-Main] 2026-09-28 13:58:35 Info: counters: Alerts: 17

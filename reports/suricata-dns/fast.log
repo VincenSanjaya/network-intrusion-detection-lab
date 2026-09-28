@@ -1,0 +1,17 @@
+09/28/2026-13:53:41.961031  [**] [1:1000004:1] Suspicious Long DNS Query [**] [Classification: (null)] [Priority: 3] {UDP} 10.20.139.235:54295 -> 1.1.1.1:53
+09/28/2026-13:53:55.836023  [**] [1:1000004:1] Suspicious Long DNS Query [**] [Classification: (null)] [Priority: 3] {UDP} 10.20.139.235:53861 -> 1.0.0.1:53
+09/28/2026-13:53:42.010379  [**] [1:1000004:1] Suspicious Long DNS Query [**] [Classification: (null)] [Priority: 3] {UDP} 10.20.139.235:60549 -> 1.1.1.1:53
+09/28/2026-13:53:54.825302  [**] [1:1000004:1] Suspicious Long DNS Query [**] [Classification: (null)] [Priority: 3] {UDP} 10.20.139.235:55416 -> 1.1.1.1:53
+09/28/2026-13:54:02.868802  [**] [1:1000004:1] Suspicious Long DNS Query [**] [Classification: (null)] [Priority: 3] {UDP} 10.20.139.235:52195 -> 1.0.0.1:53
+09/28/2026-13:53:43.013794  [**] [1:1000004:1] Suspicious Long DNS Query [**] [Classification: (null)] [Priority: 3] {UDP} 10.20.139.235:54859 -> 1.0.0.1:53
+09/28/2026-13:54:01.834643  [**] [1:1000004:1] Suspicious Long DNS Query [**] [Classification: (null)] [Priority: 3] {UDP} 10.20.139.235:53861 -> 1.0.0.1:53
+09/28/2026-13:54:00.833130  [**] [1:1000004:1] Suspicious Long DNS Query [**] [Classification: (null)] [Priority: 3] {UDP} 10.20.139.235:55416 -> 1.1.1.1:53
+09/28/2026-13:54:01.871672  [**] [1:1000004:1] Suspicious Long DNS Query [**] [Classification: (null)] [Priority: 3] {UDP} 10.20.139.235:63573 -> 1.1.1.1:53
+09/28/2026-13:54:08.881876  [**] [1:1000004:1] Suspicious Long DNS Query [**] [Classification: (null)] [Priority: 3] {UDP} 10.20.139.235:52195 -> 1.0.0.1:53
+09/28/2026-13:54:07.871321  [**] [1:1000004:1] Suspicious Long DNS Query [**] [Classification: (null)] [Priority: 3] {UDP} 10.20.139.235:63573 -> 1.1.1.1:53
+09/28/2026-13:54:28.275684  [**] [1:1000004:1] Suspicious Long DNS Query [**] [Classification: (null)] [Priority: 3] {UDP} 10.20.139.235:50063 -> 1.0.0.1:53
+09/28/2026-13:54:27.273215  [**] [1:1000004:1] Suspicious Long DNS Query [**] [Classification: (null)] [Priority: 3] {UDP} 10.20.139.235:50471 -> 1.1.1.1:53
+09/28/2026-13:54:20.116936  [**] [1:1000004:1] Suspicious Long DNS Query [**] [Classification: (null)] [Priority: 3] {UDP} 10.20.139.235:56099 -> 1.1.1.1:53
+09/28/2026-13:54:21.123842  [**] [1:1000004:1] Suspicious Long DNS Query [**] [Classification: (null)] [Priority: 3] {UDP} 10.20.139.235:62893 -> 1.0.0.1:53
+09/28/2026-13:54:26.126740  [**] [1:1000004:1] Suspicious Long DNS Query [**] [Classification: (null)] [Priority: 3] {UDP} 10.20.139.235:56099 -> 1.1.1.1:53
+09/28/2026-13:54:27.129796  [**] [1:1000004:1] Suspicious Long DNS Query [**] [Classification: (null)] [Priority: 3] {UDP} 10.20.139.235:62893 -> 1.0.0.1:53

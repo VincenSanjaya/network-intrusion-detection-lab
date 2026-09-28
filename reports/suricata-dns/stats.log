@@ -1,0 +1,42 @@
+---------------------------------------------------------------------------------------------------
+Date: 9/28/2026 -- 13:58:35 (uptime: 0d, 00h 00m 00s)
+---------------------------------------------------------------------------------------------------
+Counter                                                      | TM Name                   | Value
+---------------------------------------------------------------------------------------------------
+decoder.pkts                                                 | Total                     | 271
+decoder.bytes                                                | Total                     | 23671
+decoder.ipv4                                                 | Total                     | 271
+decoder.ethernet                                             | Total                     | 271
+decoder.udp                                                  | Total                     | 271
+decoder.avg_pkt_size                                         | Total                     | 87
+decoder.max_pkt_size                                         | Total                     | 252
+flow.total                                                   | Total                     | 182
+flow.udp                                                     | Total                     | 182
+flow.wrk.spare_sync_avg                                      | Total                     | 100
+flow.wrk.spare_sync                                          | Total                     | 8
+detect.alert                                                 | Total                     | 17
+app_layer.flow.dns_udp                                       | Total                     | 182
+app_layer.tx.dns_udp                                         | Total                     | 271
+flow.end.state.new                                           | Total                     | 123
+flow.end.state.established                                   | Total                     | 59
+flow.mgr.rows_per_sec                                        | Total                     | 6553
+flow.spare                                                   | Total                     | 9200
+flow.mgr.rows_maxlen                                         | Total                     | 1
+flow.mgr.flows_checked                                       | Total                     | 2
+flow.mgr.flows_notimeout                                     | Total                     | 2
+memcap.pressure                                              | Total                     | 8
+memcap.pressure_max                                          | Total                     | 8
+defrag.memuse                                                | Total                     | 15728472
+flow.recycler.recycled                                       | Total                     | 182
+flow.recycler.queue_avg                                      | Total                     | 1
+flow.recycler.queue_max                                      | Total                     | 125
+tcp.memuse                                                   | Total                     | 4980736
+tcp.reassembly_memuse                                        | Total                     | 917504
+http.byterange.memuse                                        | Total                     | 208768
+http.byterange.memcap                                        | Total                     | 104857600
+ippair.memuse                                                | Total                     | 684288
+ippair.memcap                                                | Total                     | 16777216
+host.memuse                                                  | Total                     | 668288
+host.memcap                                                  | Total                     | 33554432
+detect.thresholds.cache.memuse                               | Total                     | 17472
+flow.memuse                                                  | Total                     | 11588608

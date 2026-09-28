@@ -1,0 +1,36 @@
+[259 - Suricata-Main] 2026-09-28 13:28:20 Notice: suricata: This is Suricata version 8.0.7 RELEASE running in USER mode
+[259 - Suricata-Main] 2026-09-28 13:28:20 Info: cpu: CPUs/cores online: 8
+[259 - Suricata-Main] 2026-09-28 13:28:20 Info: suricata: Setting engine mode to IDS mode by default
+[259 - Suricata-Main] 2026-09-28 13:28:20 Info: exception-policy: master exception-policy set to: auto
+[259 - Suricata-Main] 2026-09-28 13:28:20 Info: logopenfile: fast output device (regular) initialized: fast.log
+[259 - Suricata-Main] 2026-09-28 13:28:20 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[259 - Suricata-Main] 2026-09-28 13:28:20 Info: logopenfile: stats output device (regular) initialized: stats.log
+[259 - Suricata-Main] 2026-09-28 13:28:21 Info: detect: 1 rule files processed. 52768 rules successfully loaded, 0 rules failed, 0 rules skipped
+[259 - Suricata-Main] 2026-09-28 13:28:21 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[259 - Suricata-Main] 2026-09-28 13:28:21 Info: detect: 52773 signatures processed. 1227 are IP-only rules, 4534 are inspecting packet payload, 46776 inspect application layer, 110 are decoder event only
+[3855 - RX#01] 2026-09-28 13:28:25 Info: pcap: Starting file run for pcaps/portscan.pcap
+[259 - Suricata-Main] 2026-09-28 13:28:25 Notice: threads: Threads created -> RX: 1 W: 8 FM: 1 FR: 1   Engine started.
+[3855 - RX#01] 2026-09-28 13:28:25 Info: checksum: Less than 1/10th of packets have an invalid checksum, assuming checksum offloading is NOT used (3/1000)
+[3855 - RX#01] 2026-09-28 13:28:25 Info: pcap: pcap file pcaps/portscan.pcap end of file reached (pcap err code 0)
+[259 - Suricata-Main] 2026-09-28 13:28:25 Notice: suricata: Signal Received.  Stopping engine.
+[259 - Suricata-Main] 2026-09-28 13:28:25 Info: suricata: time elapsed 0.104s
+[3855 - RX#01] 2026-09-28 13:28:25 Notice: pcap: read 1 file, 2304 packets, 178445 bytes
+[259 - Suricata-Main] 2026-09-28 13:28:25 Info: counters: Alerts: 3151
+[259 - Suricata-Main] 2026-09-28 13:29:10 Notice: suricata: This is Suricata version 8.0.7 RELEASE running in USER mode
+[259 - Suricata-Main] 2026-09-28 13:29:10 Info: cpu: CPUs/cores online: 8
+[259 - Suricata-Main] 2026-09-28 13:29:10 Info: suricata: Setting engine mode to IDS mode by default
+[259 - Suricata-Main] 2026-09-28 13:29:10 Info: exception-policy: master exception-policy set to: auto
+[259 - Suricata-Main] 2026-09-28 13:29:10 Info: logopenfile: fast output device (regular) initialized: fast.log
+[259 - Suricata-Main] 2026-09-28 13:29:10 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[259 - Suricata-Main] 2026-09-28 13:29:10 Info: logopenfile: stats output device (regular) initialized: stats.log
+[259 - Suricata-Main] 2026-09-28 13:29:11 Info: detect: 1 rule files processed. 52768 rules successfully loaded, 0 rules failed, 0 rules skipped
+[259 - Suricata-Main] 2026-09-28 13:29:11 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[259 - Suricata-Main] 2026-09-28 13:29:11 Info: detect: 52773 signatures processed. 1227 are IP-only rules, 4534 are inspecting packet payload, 46776 inspect application layer, 110 are decoder event only
+[4111 - RX#01] 2026-09-28 13:29:15 Info: pcap: Starting file run for pcaps/portscan.pcap
+[259 - Suricata-Main] 2026-09-28 13:29:15 Notice: threads: Threads created -> RX: 1 W: 8 FM: 1 FR: 1   Engine started.
+[4111 - RX#01] 2026-09-28 13:29:15 Info: checksum: Less than 1/10th of packets have an invalid checksum, assuming checksum offloading is NOT used (5/1000)
+[4111 - RX#01] 2026-09-28 13:29:15 Info: pcap: pcap file pcaps/portscan.pcap end of file reached (pcap err code 0)
+[259 - Suricata-Main] 2026-09-28 13:29:15 Notice: suricata: Signal Received.  Stopping engine.
+[259 - Suricata-Main] 2026-09-28 13:29:15 Info: suricata: time elapsed 0.099s
+[4111 - RX#01] 2026-09-28 13:29:15 Notice: pcap: read 1 file, 2304 packets, 178445 bytes
+[259 - Suricata-Main] 2026-09-28 13:29:15 Info: counters: Alerts: 3151
